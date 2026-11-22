@@ -1,7 +1,17 @@
 ﻿{
-  "version": "2.1.0",
+  "version": "2.2.0",
   "app_code": "MN21",
-  "release_notes": "v2.1.0 - Đổi tên AI Translator, thêm chức năng cập nhật phần mềm, đồng bộ thuật ngữ.",
+  "app_name": "AI Translator",
+  "release_date": "2026-11-22",
+  "release_notes": "v2.2.0 - Cải thiện OCR Gemini Vision, tra từ vựng thông minh, Google Translate miễn phí, khởi động cùng Windows",
   "download_url": "",
-  "min_version": "1.0.0"
+  "min_version": "2.0.0",
+  "changelog": [
+    "Tra từ vựng thông minh với phiên âm IPA, nghĩa, phát âm TTS",
+    "Chế độ Google Translate miễn phí (không cần API key)",
+    "Gemini Vision OCR chính xác cao (thay thế Tesseract)",
+    "Khởi động cùng Windows",
+    "Cải thiện nhận dạng ký tự dễ nhầm",
+    "Sửa lỗi OCR trên bản cài đặt"
+  ]
 }
