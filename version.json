@@ -1,6 +1,6 @@
 {
-  "latest_version": "2.8.0",
-  "download_url": "https://github.com/minhnhatvn21/tienichmo/releases/download/v2.8.0/AITranslator_Setup_v2.8.0.exe",
-  "changelog": "v2.8.0: Sua loi kiem tra cap nhat, nut QUET mau cam vang",
+  "latest_version": "2.9.0",
+  "download_url": "https://github.com/minhnhatvn21/tienichmo/releases/download/v2.9.0/AITranslator_Setup_v2.9.0.exe",
+  "changelog": "v2.9.0: Tang co chu toi da 36px, ho tro man hinh phan giai cao",
   "min_version": "2.0.0"
 }
