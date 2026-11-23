@@ -1,5 +1,1 @@
-{
-  "version": "2.6.1",
-  "download_url": "https://github.com/minhnhatvn21/tienichmo/releases/download/v2.6.1/AITranslator_Setup_v2.6.1.exe",
-  "release_notes": "v2.6.1: Mã hóa API strings, chống decompile"
-}
+{"latest_version": "2.7.0", "download_url": "https://github.com/minhnhatvn21/tienichmo/releases/download/v2.7.0/AITranslator_Setup_v2.7.0.exe", "changelog": "v2.7.0: Lo\u1ea1i b\u1ecf EasyOCR+PyTorch, gi\u1ea3m RAM 60%, installer nh\u1eb9 54%", "min_version": "2.0.0"}
