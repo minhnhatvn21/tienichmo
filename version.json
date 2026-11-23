@@ -1,17 +1,17 @@
-﻿{
-  "version": "2.2.0",
+{
+  "version": "2.4.0",
   "app_code": "MN21",
   "app_name": "AI Translator",
-  "release_date": "2026-11-22",
-  "release_notes": "v2.2.0 - Cải thiện OCR Gemini Vision, tra từ vựng thông minh, Google Translate miễn phí, khởi động cùng Windows",
-  "download_url": "",
+  "release_date": "2026-11-23",
+  "release_notes": "v2.4.0 - Kích hoạt từ xa, resize toolbar, bỏ nút Lưu, sửa lỗi PyQt5",
+  "download_url": "https://github.com/minhnhatvn21/tienichmo/releases/download/v2.4.0/AITranslator_Setup_v2.4.0.exe",
   "min_version": "2.0.0",
   "changelog": [
-    "Tra từ vựng thông minh với phiên âm IPA, nghĩa, phát âm TTS",
-    "Chế độ Google Translate miễn phí (không cần API key)",
-    "Gemini Vision OCR chính xác cao (thay thế Tesseract)",
-    "Khởi động cùng Windows",
-    "Cải thiện nhận dạng ký tự dễ nhầm",
-    "Sửa lỗi OCR trên bản cài đặt"
+    "Kích hoạt từ xa qua Zalo (không cần nhập key thủ công)",
+    "Auto-check kích hoạt khi khởi động app",
+    "Resize toolbar từ mọi cạnh/góc",
+    "Bỏ nút Lưu không cần thiết trên thẻ dịch",
+    "Sửa lỗi tương thích PyQt5",
+    "Cải thiện ổn định và hiệu suất"
   ]
 }
