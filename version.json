@@ -1,1 +1,6 @@
-{"latest_version": "2.7.0", "download_url": "https://github.com/minhnhatvn21/tienichmo/releases/download/v2.7.0/AITranslator_Setup_v2.7.0.exe", "changelog": "v2.7.0: Lo\u1ea1i b\u1ecf EasyOCR+PyTorch, gi\u1ea3m RAM 60%, installer nh\u1eb9 54%", "min_version": "2.0.0"}
+{
+  "latest_version": "2.8.0",
+  "download_url": "https://github.com/minhnhatvn21/tienichmo/releases/download/v2.8.0/AITranslator_Setup_v2.8.0.exe",
+  "changelog": "v2.8.0: Sua loi kiem tra cap nhat, nut QUET mau cam vang",
+  "min_version": "2.0.0"
+}
