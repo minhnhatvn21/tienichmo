@@ -1,17 +1,13 @@
 {
-  "version": "2.4.0",
-  "app_code": "MN21",
-  "app_name": "AI Translator",
-  "release_date": "2026-11-23",
-  "release_notes": "v2.4.0 - Kích hoạt từ xa, resize toolbar, bỏ nút Lưu, sửa lỗi PyQt5",
-  "download_url": "https://github.com/minhnhatvn21/tienichmo/releases/download/v2.4.0/AITranslator_Setup_v2.4.0.exe",
-  "min_version": "2.0.0",
+  "version": "2.5.0",
+  "download_url": "https://github.com/minhnhatvn21/tienichmo/releases/download/v2.5.0/AITranslator_Setup_v2.5.0.exe",
+  "release_notes": "v2.5.0 - Ẩn UI kích hoạt khi đã có bản quyền, hiển thị mã máy rõ ràng",
   "changelog": [
-    "Kích hoạt từ xa qua Zalo (không cần nhập key thủ công)",
-    "Auto-check kích hoạt khi khởi động app",
-    "Resize toolbar từ mọi cạnh/góc",
-    "Bỏ nút Lưu không cần thiết trên thẻ dịch",
-    "Sửa lỗi tương thích PyQt5",
-    "Cải thiện ổn định và hiệu suất"
+    "Ẩn giao diện kích hoạt/dùng thử khi đã có bản quyền",
+    "Hiển thị mã máy lớn, rõ ràng hơn",
+    "Sửa lỗi chuẩn hóa mã máy admin tool",
+    "Kích hoạt từ xa ổn định",
+    "Tự động kiểm tra cập nhật khi khởi động",
+    "Sửa lỗi PyQt5 compatibility"
   ]
 }
