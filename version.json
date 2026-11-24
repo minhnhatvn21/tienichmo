@@ -1,6 +1,6 @@
 {
-    "download_url":  "https://github.com/minhnhatvn21/tienichmo/releases/download/v2.14.0/AITranslator_Setup_v2.14.0.exe",
-    "changelog":  "v2.14.0: Fix bao ve trang thai revoked, them popup thong bao cap nhat khi khoi dong",
+    "download_url":  "https://github.com/minhnhatvn21/tienichmo/releases/download/v2.15.0/AITranslator_Setup_v2.15.0.exe",
+    "changelog":  "v2.15.0: Toi uu giao dien tab Ban Quyen, xoa tab Du Lieu, tang kich thuoc dialog",
     "min_version":  "2.0.0",
-    "version":  "2.14.0"
+    "version":  "2.15.0"
 }
