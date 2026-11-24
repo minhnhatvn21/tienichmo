@@ -1,5 +1,6 @@
 {
-  "version": "2.11.0",
-  "download_url": "https://github.com/minhnhatvn21/tienichdichthuat/releases/download/v2.11.0/AITranslator_Setup_v2.11.0.exe",
-  "release_notes": "v2.11.0: Tu dong gui thong tin thiet bi, kich hoat tu xa tu dong, theo doi thiet bi"
+  "version": "2.12.0",
+  "download_url": "https://github.com/minhnhatvn21/tienichdichthuat/releases/download/v2.12.0/AITranslator_Setup_v2.12.0.exe",
+  "changelog": "v2.12.0: Firebase Firestore, installer tiếng Việt, quản lý thiết bị từ xa",
+  "min_version": "2.0.0"
 }
