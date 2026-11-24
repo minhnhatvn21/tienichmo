@@ -1,6 +1,6 @@
 {
-    "download_url":  "https://github.com/minhnhatvn21/tienichmo/releases/download/v2.13.0/AITranslator_Setup_v2.13.0.exe",
-    "changelog":  "v2.13.0: Fix thu hoi ban quyen, font tieng Viet, admin tool",
+    "download_url":  "https://github.com/minhnhatvn21/tienichmo/releases/download/v2.14.0/AITranslator_Setup_v2.14.0.exe",
+    "changelog":  "v2.14.0: Fix bao ve trang thai revoked, them popup thong bao cap nhat khi khoi dong",
     "min_version":  "2.0.0",
-    "version":  "2.13.0"
+    "version":  "2.14.0"
 }
