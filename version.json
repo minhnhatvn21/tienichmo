@@ -1,6 +1,6 @@
 {
-    "download_url":  "https://github.com/minhnhatvn21/tienichmo/releases/download/v2.15.0/AITranslator_Setup_v2.15.0.exe",
-    "changelog":  "v2.15.0: Toi uu giao dien tab Ban Quyen, xoa tab Du Lieu, tang kich thuoc dialog",
+    "download_url":  "https://github.com/minhnhatvn21/tienichmo/releases/download/v2.16.0/AITranslator_Setup_v2.16.0.exe",
+    "changelog":  "v2.16.0: Toi uu toc do khoi dong - lazy imports, background init, machine ID cache",
     "min_version":  "2.0.0",
-    "version":  "2.15.0"
+    "version":  "2.16.0"
 }
